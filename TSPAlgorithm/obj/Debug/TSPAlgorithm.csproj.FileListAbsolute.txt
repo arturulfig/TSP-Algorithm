@@ -1,0 +1,15 @@
+F:\STUDIA\TSPAlgorithm\TSPAlgorithm\obj\Debug\TSPAlgorithm.csprojResolveAssemblyReference.cache
+F:\STUDIA\TSPAlgorithm\TSPAlgorithm\obj\Debug\MainWindow.g.cs
+F:\STUDIA\TSPAlgorithm\TSPAlgorithm\obj\Debug\App.g.cs
+F:\STUDIA\TSPAlgorithm\TSPAlgorithm\obj\Debug\TSPAlgorithm_MarkupCompile.cache
+F:\STUDIA\TSPAlgorithm\TSPAlgorithm\obj\Debug\TSPAlgorithm_MarkupCompile.lref
+F:\STUDIA\TSPAlgorithm\TSPAlgorithm\bin\Debug\TSPAlgorithm.exe.config
+F:\STUDIA\TSPAlgorithm\TSPAlgorithm\bin\Debug\TSPAlgorithm.exe
+F:\STUDIA\TSPAlgorithm\TSPAlgorithm\bin\Debug\TSPAlgorithm.pdb
+F:\STUDIA\TSPAlgorithm\TSPAlgorithm\obj\Debug\MainWindow.baml
+F:\STUDIA\TSPAlgorithm\TSPAlgorithm\obj\Debug\TSPAlgorithm.g.resources
+F:\STUDIA\TSPAlgorithm\TSPAlgorithm\obj\Debug\TSPAlgorithm.Properties.Resources.resources
+F:\STUDIA\TSPAlgorithm\TSPAlgorithm\obj\Debug\TSPAlgorithm.csproj.GenerateResource.cache
+F:\STUDIA\TSPAlgorithm\TSPAlgorithm\obj\Debug\TSPAlgorithm.csproj.CoreCompileInputs.cache
+F:\STUDIA\TSPAlgorithm\TSPAlgorithm\obj\Debug\TSPAlgorithm.exe
+F:\STUDIA\TSPAlgorithm\TSPAlgorithm\obj\Debug\TSPAlgorithm.pdb
