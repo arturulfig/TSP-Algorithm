@@ -396,7 +396,7 @@ namespace TSPAlgorithm
                         }
                         catch (Exception e)
                         {
-                            Console.WriteLine("ERROR: Pusta lista miast z minimalną liczbą sąsiadów!!!");
+                            Console.WriteLine("ERROR: Empty cities list with minimal neighbours!!!");
                             throw;
                         }
 
@@ -478,7 +478,7 @@ namespace TSPAlgorithm
                     {
                         if (population.PopulationList[i].CitiesList[j].CityName == test[k])
                         {
-                            Console.WriteLine("Błąd populacji");
+                            Console.WriteLine("Population error");
                             return;
                         }
                     }
@@ -532,13 +532,13 @@ namespace TSPAlgorithm
                     bool test = toDebugL1.Distinct().Count() == toDebugL1.Count();
                     if (test == false)
                     {
-                        Console.WriteLine("Błąd generatora populacji");
+                        Console.WriteLine("Population generator error");
                         Console.Read();
                     }
                     bool test2 = toDebugL1.Distinct().Count() == toDebugL1.Count();
                     if (test2 == false)
                     {
-                        Console.WriteLine("Błąd generatora populacji");
+                        Console.WriteLine("Population generator error");
                         Console.Read();
                     }
                     int ip1 = indexStart;
@@ -597,13 +597,13 @@ namespace TSPAlgorithm
                     bool testC = toDebugL1C.Distinct().Count() == toDebugL1C.Count();
                     if (testC == false)
                     {
-                        Console.WriteLine("Błąd generatora populacji");
+                        Console.WriteLine("Population generator error");
                         Console.Read();
                     }
                     bool test2C = toDebugL1C.Distinct().Count() == toDebugL1C.Count();
                     if (testC == false)
                     {
-                        Console.WriteLine("Błąd generatora populacji");
+                        Console.WriteLine("Population generator error");
                         Console.Read();
                     }
                     _calc.CalculateTotalDistance(child1, cykl);
@@ -626,7 +626,7 @@ namespace TSPAlgorithm
                     licznikPoprawy++;
                 }
                 Iterations++;
-                Console.WriteLine($"Iteracja {Iterations}, current best: {bestRoad.TotalDistance}");
+                Console.WriteLine($"Iteration no. {Iterations}, current best: {bestRoad.TotalDistance}");
                 z++;
             } while (licznikPoprawy <= 31);
             Console.WriteLine(RandomMutations);
